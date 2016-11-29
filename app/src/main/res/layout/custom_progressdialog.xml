@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="#6A5ACD"
+    android:orientation="vertical" >
+    <TextView
+        android:textSize="50dp"
+        android:textAlignment="center"
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cadastrando"
+        android:textColor="#ffffff"
+        android:layout_above="@+id/progressBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="98dp" />
+    <ProgressBar
+        android:indeterminateTint="#fff"
+        android:indeterminate="true"
+        android:id="@+id/progressBar"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="102dp" />
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "401103264952",
+    "firebase_url": "https://trabalhojamv.firebaseio.com",
+    "project_id": "trabalhojamv",
+    "storage_bucket": "trabalhojamv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401103264952:android:670d3dd622263cfe",
+        "android_client_info": {
+          "package_name": "com.example.isaquearaujo.trabalhojamv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401103264952-dr4h40lgbbog9c8entk604k0d75376qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3v-DacQ3JRgBO6iGBD39QaaJ0h-zC8_M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
